@@ -8,7 +8,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kotra-shashank-295516389)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shashank_kotra)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashankkotraa?igsh=Nno4ZHl0MGl2eW9p&igsi=Nno4ZHl0MGl2eW9p)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotrashashank1@gmail.com)
 
@@ -42,8 +41,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KotraShashank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotraShashank&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KotraShashank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotraShashank&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

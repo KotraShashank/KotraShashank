@@ -3,7 +3,7 @@
 <!-- Dynamic Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=218BFF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shashank+%F0%9F%91%8B;Full+Stack+Developer;B.Tech+IT+%40+NIT+Raipur)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,50:218BFF,100:79C0FF&height=180&section=header&text=Kotra%20Shashank&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,50:218BFF,100:79C0FF&height=180&section=header&text=Kotra%20Shashank&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16&fontColor=ffffff" alt="Header" />
 
 <br/>
 
@@ -41,11 +41,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KotraShashank&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotraShashank&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=KotraShashank&theme=tokyonight&hide_border=true)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,50:218BFF,100:00599C&height=100&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,50:218BFF,100:00599C&height=100&section=footer" alt="Footer" />
+</div>
